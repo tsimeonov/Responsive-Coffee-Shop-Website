@@ -4,6 +4,7 @@
   --main-color: #d3ad7f;
   --black: #13131a;
   --bg: #010103;
+  --white: #fff;
   --border: 0.1rem solid rgba(255, 255, 255, 0.3);
 }
 
@@ -35,7 +36,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #fff;
+  background: var(--white);
   border-radius: 5rem;
 }
 
@@ -48,7 +49,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.5rem 7%;
+  padding: 1.5rem 5%;
   border-bottom: var(--border);
   position: fixed;
   top: 0;
@@ -59,4 +60,10 @@ body {
 
 .header .logo img {
   height: 18rem;
+}
+
+.header .navbar a {
+  margin: 0 1rem;
+  font-size: 1.6rem;
+  color: var(--white);
 }
