@@ -25,3 +25,7 @@ html {
   scroll-padding-top: 9rem;
   scroll-behavior: smooth;
 }
+
+html::-webkit-scrollbar {
+  width: 0.8rem;
+}
