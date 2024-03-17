@@ -67,3 +67,9 @@ body {
   font-size: 1.6rem;
   color: var(--white);
 }
+
+.header .navbar a:hover {
+  color: var(--main-color);
+  border-bottom: 0.1rem solid var(--main-color);
+  padding-bottom: 0.5rem;
+}
