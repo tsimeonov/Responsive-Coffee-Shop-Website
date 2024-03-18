@@ -115,3 +115,7 @@ body {
   margin-right: 1.5rem;
   color: var(--black);
 }
+
+.header .search-form label:hover {
+  color: var(--main-color);
+}
