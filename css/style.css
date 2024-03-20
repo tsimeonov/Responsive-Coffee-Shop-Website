@@ -151,3 +151,7 @@ body {
 .header .cart-items-container .cart-item .fa-times:hover {
   color: var(--main-color);
 }
+
+.header .cart-items-container .cart-item img {
+  height: 7rem;
+}
