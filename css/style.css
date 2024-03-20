@@ -147,3 +147,7 @@ body {
   cursor: pointer;
   color: var(--black);
 }
+
+.header .cart-items-container .cart-item .fa-times:hover {
+  color: var(--main-color);
+}
