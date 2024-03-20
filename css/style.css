@@ -177,3 +177,7 @@ body {
   border-radius: 0.5rem;
   cursor: pointer;
 }
+
+.btn:hover {
+  letter-spacing: 0.2rem;
+}
