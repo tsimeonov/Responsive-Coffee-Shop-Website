@@ -155,3 +155,9 @@ body {
 .header .cart-items-container .cart-item img {
   height: 7rem;
 }
+
+.header .cart-items-container .cart-item .content h3 {
+  font-size: 3rem;
+  color: var(--black);
+  padding-bottom: 0.5rem;
+}
