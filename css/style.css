@@ -121,3 +121,13 @@ body {
 .header .search-form label:hover {
   color: var(--main-color);
 }
+
+.header .cart-items-container {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  height: calc(100vh - 9rem);
+  width: 35rem;
+  background-color: var(--white);
+  padding: 0 1.5rem;
+}
