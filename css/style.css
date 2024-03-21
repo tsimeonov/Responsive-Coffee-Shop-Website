@@ -189,4 +189,7 @@ body {
 
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
+  html {
+    font-size: 55%;
+  }
 }
