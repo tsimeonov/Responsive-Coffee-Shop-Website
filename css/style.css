@@ -186,3 +186,7 @@ body {
   width: 100%;
   text-align: center;
 }
+
+/* MEDIA QUERIES */
+@media (max-width: 990px) {
+}
