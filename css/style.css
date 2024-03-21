@@ -181,3 +181,8 @@ body {
 .btn:hover {
   letter-spacing: 0.2rem;
 }
+
+.header .cart-items-container .btn {
+  width: 100%;
+  text-align: center;
+}
