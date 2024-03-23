@@ -229,4 +229,9 @@ body {
     padding: 0.5rem;
     font-size: 2rem;
   }
+
+  .header .search-form {
+    width: 90%;
+    right: 2rem;
+  }
 }
