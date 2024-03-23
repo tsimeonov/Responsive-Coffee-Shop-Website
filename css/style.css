@@ -102,6 +102,10 @@ body {
   transform-origin: top;
 }
 
+.header .search-form.active {
+  transform: scaleY(1);
+}
+
 .header .search-form input {
   height: 100%;
   width: 100%;
