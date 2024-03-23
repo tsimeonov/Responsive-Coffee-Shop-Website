@@ -196,7 +196,7 @@ body {
 }
 
 /* MEDIA QUERIES */
-@media (max-width: 990px) {
+@media (max-width: 768px) {
   html {
     font-size: 55%;
   }
