@@ -237,3 +237,9 @@ body {
     right: 2rem;
   }
 }
+
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+}
