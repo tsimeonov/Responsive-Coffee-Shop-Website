@@ -132,6 +132,10 @@ body {
   padding: 0 1.5rem;
 }
 
+.header .cart-items-container.active {
+  right: 0;
+}
+
 .header .cart-items-container .cart-item {
   position: relative;
   margin: 2rem 0;
