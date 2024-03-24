@@ -259,6 +259,11 @@ section {
   padding: 2rem;
 }
 
+.about .row .content h3 {
+  font-size: 3rem;
+  color: var(--white);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
