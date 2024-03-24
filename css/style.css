@@ -264,6 +264,13 @@ section {
   color: var(--white);
 }
 
+.about .row .content p {
+  font-size: 1.6rem;
+  color: var(--white);
+  padding: 1rem 0;
+  line-height: 1.8;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
