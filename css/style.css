@@ -208,6 +208,10 @@ section {
   background-position: center;
 }
 
+.home .content {
+  max-width: 60rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
