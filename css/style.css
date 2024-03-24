@@ -234,6 +234,11 @@ section {
   font-size: 4rem;
 }
 
+.heading span {
+  color: var(--main-color);
+  text-transform: uppercase;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
