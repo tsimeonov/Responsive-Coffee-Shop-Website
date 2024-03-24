@@ -254,6 +254,11 @@ section {
   width: 100%;
 }
 
+.about .row .content {
+  flex: 1 1 45rem;
+  padding: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
