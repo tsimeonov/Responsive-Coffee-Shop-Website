@@ -212,6 +212,12 @@ section {
   max-width: 60rem;
 }
 
+.home .content h3 {
+  font-size: 6rem;
+  text-transform: uppercase;
+  color: var(--white);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
