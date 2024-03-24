@@ -226,6 +226,14 @@ section {
   color: var(--white);
 }
 
+.heading {
+  text-align: center;
+  color: var(--white);
+  text-transform: uppercase;
+  padding-bottom: 3.5rem;
+  font-size: 4rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
