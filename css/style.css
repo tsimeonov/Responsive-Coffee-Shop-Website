@@ -276,6 +276,10 @@ section {
     /* background-position: left; */
     justify-content: center;
   }
+
+  .home .content h3 {
+    font-size: 4.5rem;
+  }
 }
 
 @media (max-width: 450px) {
