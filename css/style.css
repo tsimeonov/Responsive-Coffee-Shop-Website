@@ -195,6 +195,10 @@ body {
   text-align: center;
 }
 
+.section {
+  padding: 2rem 7%;
+}
+
 .home {
   min-height: 100vh;
   display: flex;
