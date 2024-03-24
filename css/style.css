@@ -239,6 +239,13 @@ section {
   text-transform: uppercase;
 }
 
+.about .row {
+  display: flex;
+  align-items: center;
+  background: var(--black);
+  gap: 1rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
