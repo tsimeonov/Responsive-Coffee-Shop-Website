@@ -218,6 +218,14 @@ section {
   color: var(--white);
 }
 
+.home .content p {
+  font-size: 1.3rem;
+  font-weight: lighter;
+  line-height: 1.8;
+  padding: 1rem 0;
+  color: var(--white);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
