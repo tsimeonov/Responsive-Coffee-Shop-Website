@@ -195,6 +195,15 @@ body {
   text-align: center;
 }
 
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: url(../images/hero-img.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
   html {
