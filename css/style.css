@@ -246,6 +246,10 @@ section {
   flex-wrap: wrap;
 }
 
+.about .row .image {
+  flex: 1 1 45rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
