@@ -283,6 +283,10 @@ section {
   border: var(--border);
 }
 
+.menu .box-container .box img {
+  height: 10rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
