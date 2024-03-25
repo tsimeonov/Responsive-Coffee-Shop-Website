@@ -287,6 +287,12 @@ section {
   height: 10rem;
 }
 
+.menu .box-container .box h3 {
+  color: var(--white);
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
