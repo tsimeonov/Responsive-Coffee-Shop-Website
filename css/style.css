@@ -304,6 +304,10 @@ section {
   text-decoration: line-through;
 }
 
+.menu .box-container .box:hover {
+  background: var(--white);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
