@@ -324,6 +324,16 @@ section {
   padding: 2rem;
 }
 
+.product .box-container .box .icons a {
+  height: 5rem;
+  width: 5rem;
+  line-height: 5rem;
+  font-size: 2rem;
+  border: var(--border);
+  color: var(--white);
+  margin: 3rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
