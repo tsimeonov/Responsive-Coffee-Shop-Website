@@ -312,19 +312,19 @@ section {
   color: var(--bg);
 }
 
-.product .box-container {
+.products .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 1.5rem;
 }
 
-.product .box-container .box {
+.products .box-container .box {
   text-align: center;
   border: var(--border);
   padding: 2rem;
 }
 
-.product .box-container .box .icons a {
+.products .box-container .box .icons a {
   height: 5rem;
   width: 5rem;
   line-height: 5rem;
@@ -334,15 +334,15 @@ section {
   margin: 3rem;
 }
 
-.product .box-container .box .icons a:hover {
+.products .box-container .box .icons a:hover {
   background: var(--main-color);
 }
 
-.product .box-container .box .image {
+.products .box-container .box .image {
   padding: 2.5rem 0;
 }
 
-.product .box-container .box .image img {
+.products .box-container .box .image img {
   height: 25rem;
 }
 
