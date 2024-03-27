@@ -318,6 +318,12 @@ section {
   gap: 1.5rem;
 }
 
+.product .box-container .box {
+  text-align: center;
+  border: var(--border);
+  padding: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
