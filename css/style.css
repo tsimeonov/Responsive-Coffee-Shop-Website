@@ -342,6 +342,10 @@ section {
   padding: 2.5rem 0;
 }
 
+.product .box-container .box .image img {
+  height: 25rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
