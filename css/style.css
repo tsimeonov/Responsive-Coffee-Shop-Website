@@ -334,6 +334,14 @@ section {
   margin: 3rem;
 }
 
+.product .box-container .box .icons a:hover {
+  background: var(--main-color);
+}
+
+.product .box-container .box .image {
+  padding: 2.5rem 0;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
