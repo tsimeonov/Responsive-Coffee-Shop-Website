@@ -367,7 +367,7 @@ section {
 
 .products .box-container .box .content .price {
   color: var(--white);
-  font: 2.5rem;
+  font-size: 2.5rem;
 }
 
 .products .box-container .box .content .price span {
