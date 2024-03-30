@@ -402,6 +402,12 @@ section {
   object-fit: cover;
 }
 
+.review .box-container .box h3 {
+  padding: 1rem 0;
+  font-size: 2rem;
+  color: var(--white);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
