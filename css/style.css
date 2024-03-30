@@ -365,6 +365,11 @@ section {
   color: var(--main-color);
 }
 
+.products .box-container .box .content .price {
+  color: var(--white);
+  font: 2.5rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
