@@ -326,6 +326,7 @@ section {
 
 .products .box-container .box .icons {
   display: flex;
+  justify-content: center;
 }
 
 .products .box-container .box .icons a {
@@ -335,7 +336,7 @@ section {
   font-size: 2rem;
   border: var(--border);
   color: var(--white);
-  margin: 3rem;
+  margin: 3rem 0.3rem;
 }
 
 .products .box-container .box .icons a:hover {
