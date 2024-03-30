@@ -360,6 +360,11 @@ section {
   padding: 1.5rem;
 }
 
+.products .box-container .box .content .stars i {
+  font-size: 1.7rem;
+  color: var(--main-color);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
