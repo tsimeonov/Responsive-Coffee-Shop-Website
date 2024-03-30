@@ -395,6 +395,13 @@ section {
   padding: 2rem 0;
 }
 
+.review .box-container .box .user {
+  height: 7rem;
+  width: 7rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
