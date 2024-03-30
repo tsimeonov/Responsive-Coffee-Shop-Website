@@ -382,6 +382,12 @@ section {
   gap: 1.5rem;
 }
 
+.review .box-container .box {
+  border: var(--border);
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
