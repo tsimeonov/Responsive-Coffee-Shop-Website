@@ -324,6 +324,10 @@ section {
   padding: 2rem;
 }
 
+.products .box-container .box .icons {
+  display: flex;
+}
+
 .products .box-container .box .icons a {
   height: 5rem;
   width: 5rem;
