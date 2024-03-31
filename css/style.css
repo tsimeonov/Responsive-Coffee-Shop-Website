@@ -413,6 +413,12 @@ section {
   color: var(--main-color);
 }
 
+.contact .row {
+  display: flex;
+  align-items: center;
+  background: var(--black);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
