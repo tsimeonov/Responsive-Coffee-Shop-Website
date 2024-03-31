@@ -478,6 +478,12 @@ section {
   width: 100%;
 }
 
+.blogs .box-container .box .image img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
