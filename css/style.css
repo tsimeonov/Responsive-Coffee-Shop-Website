@@ -484,6 +484,10 @@ section {
   width: 100%;
 }
 
+.blogs .box-container .box:hover .image img {
+  transform: scale(1.2);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
