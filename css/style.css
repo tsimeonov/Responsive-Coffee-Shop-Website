@@ -447,6 +447,14 @@ section {
   padding-left: 2rem;
 }
 
+.contact .row form .inputBox input {
+  width: 100%;
+  padding: 2rem;
+  font-size: 1.7rem;
+  color: var(--white);
+  text-decoration: none;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
