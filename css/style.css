@@ -509,6 +509,13 @@ section {
   font-size: 2rem;
 }
 
+.blogs .box-container .box .content p {
+  font-size: 1.6rem;
+  line-height: 1.8;
+  color: var(--white);
+  padding: 1rem 0;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
