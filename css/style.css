@@ -521,6 +521,10 @@ section {
   text-align: center;
 }
 
+.footer .share {
+  padding: 1rem 0;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
