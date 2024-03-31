@@ -415,7 +415,6 @@ section {
 
 .contact .row {
   display: flex;
-  align-items: center;
   background: var(--black);
   flex-wrap: wrap;
   gap: 1rem;
@@ -423,6 +422,8 @@ section {
 
 .contact .row form {
   flex: 1 1 45rem;
+  padding: 5rem 2rem;
+  text-align: center;
 }
 
 /* MEDIA QUERIES */
