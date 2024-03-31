@@ -498,6 +498,10 @@ section {
   color: var(--white);
 }
 
+.blogs .box-container .box .content .title:hover {
+  color: var(--main-color);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
