@@ -548,6 +548,13 @@ section {
   gap: 1rem;
 }
 
+.footer .links a {
+  padding: 7rem 2rem;
+  color: var(--white);
+  border: var(--border);
+  font-size: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
