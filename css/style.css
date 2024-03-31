@@ -536,6 +536,10 @@ section {
   border-radius: 50%;
 }
 
+.footer .share a:hover {
+  background-color: var(--main-color);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
