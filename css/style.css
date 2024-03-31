@@ -566,6 +566,10 @@ section {
   padding: 1.5rem;
 }
 
+.footer .credit span {
+  color: var(--main-color);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
