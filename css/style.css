@@ -540,6 +540,14 @@ section {
   background-color: var(--main-color);
 }
 
+.footer .links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem 0;
+  gap: 1rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
