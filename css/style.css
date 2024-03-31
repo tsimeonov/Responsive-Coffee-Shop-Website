@@ -488,6 +488,10 @@ section {
   transform: scale(1.2);
 }
 
+.blogs .box-container .box .content {
+  padding: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
