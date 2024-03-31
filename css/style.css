@@ -472,6 +472,12 @@ section {
   border: var(--border);
 }
 
+.blogs .box-container .box .image {
+  height: 25rem;
+  overflow: hidden;
+  width: 100%;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
