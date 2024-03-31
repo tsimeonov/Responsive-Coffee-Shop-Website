@@ -525,6 +525,17 @@ section {
   padding: 1rem 0;
 }
 
+.footer .share a {
+  height: 5rem;
+  width: 5rem;
+  line-height: 5rem;
+  font-size: 2rem;
+  color: var(--white);
+  border: var(--border);
+  margin: 0.3rem;
+  border-radius: 50%;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
