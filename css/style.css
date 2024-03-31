@@ -420,6 +420,12 @@ section {
   gap: 1rem;
 }
 
+.contact .row .map {
+  flex: 1 1 45rem;
+  width: 100%;
+  object-fit: cover;
+}
+
 .contact .row form {
   flex: 1 1 45rem;
   padding: 5rem 2rem;
