@@ -502,6 +502,13 @@ section {
   color: var(--main-color);
 }
 
+.blogs .box-container .box .content span {
+  color: var(--main-color);
+  display: block;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
