@@ -432,6 +432,15 @@ section {
   color: var(--white);
 }
 
+.contact .row form .inputBox {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background: var(--black);
+  border: var(--border);
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
