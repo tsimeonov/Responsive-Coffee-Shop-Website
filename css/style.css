@@ -441,6 +441,12 @@ section {
   border: var(--border);
 }
 
+.contact .row form .inputBox span {
+  color: var(--white);
+  font-size: 2rem;
+  padding-left: 2rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
