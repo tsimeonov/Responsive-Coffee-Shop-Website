@@ -516,6 +516,11 @@ section {
   padding: 1rem 0;
 }
 
+.footer {
+  background: var(--black);
+  text-align: center;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 990px) {
   html {
