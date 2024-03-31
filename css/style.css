@@ -549,10 +549,14 @@ section {
 }
 
 .footer .links a {
-  padding: 7rem 2rem;
+  padding: 0.7rem 2rem;
   color: var(--white);
   border: var(--border);
   font-size: 2rem;
+}
+
+.footer .links a:hover {
+  background: var(--main-color);
 }
 
 /* MEDIA QUERIES */
