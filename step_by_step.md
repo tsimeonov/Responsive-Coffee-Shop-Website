@@ -485,3 +485,43 @@ Create the html for the home section
 ```
 
 </details>
+
+---
+
+Styling the home section
+
+<details>
+  <summary>Style the home section</summary>
+
+```css
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: url(../images/hero-img.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home .content {
+  max-width: 60rem;
+}
+
+.home .content h3 {
+  font-size: 6rem;
+  text-transform: uppercase;
+  color: var(--white);
+}
+
+.home .content p {
+  font-size: 1.6rem;
+  font-weight: lighter;
+  line-height: 1.8;
+  padding: 1rem 0;
+  color: var(--white);
+}
+```
+
+</details>
+
+---
