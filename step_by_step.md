@@ -683,3 +683,53 @@ Build the `menu` section
 </details>
 
 ---
+
+Style the `menu` section
+
+<details>
+  <summary>Style the menu section</summary>
+
+```css
+.menu .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap: 1.5rem;
+}
+
+.menu .box-container .box {
+  padding: 5rem;
+  text-align: center;
+  border: var(--border);
+}
+
+.menu .box-container .box img {
+  height: 10rem;
+}
+
+.menu .box-container .box h3 {
+  color: var(--white);
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+
+.menu .box-container .box .price {
+  color: var(--white);
+  font-size: 2.5rem;
+  padding: 5rem 0;
+}
+
+.menu .box-container .box .price span {
+  font-size: 1.5rem;
+  text-decoration: line-through;
+}
+
+.menu .box-container .box:hover {
+  background: var(--white);
+}
+
+.menu .box-container .box:hover > * {
+  color: var(--bg);
+}
+```
+
+</details>
