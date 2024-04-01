@@ -90,3 +90,5 @@ body {
 </details>
 
 ---
+
+Create a new file called `app.js`
