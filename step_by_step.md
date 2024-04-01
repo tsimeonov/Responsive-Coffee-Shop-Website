@@ -564,3 +564,59 @@ Build the `about` section of the webpage.
 </details>
 
 ---
+
+Style the `about` section.
+
+<details>
+  <summary>Style the about section</summary>
+
+```css
+.heading {
+  text-align: center;
+  color: var(--white);
+  text-transform: uppercase;
+  padding-bottom: 3.5rem;
+  font-size: 4rem;
+}
+
+.heading span {
+  color: var(--main-color);
+  text-transform: uppercase;
+}
+
+.about .row {
+  display: flex;
+  align-items: center;
+  background: var(--black);
+  flex-wrap: wrap;
+}
+
+.about .row .image {
+  flex: 1 1 45rem;
+}
+
+.about .row .image img {
+  width: 100%;
+}
+
+.about .row .content {
+  flex: 1 1 45rem;
+  padding: 2rem;
+}
+
+.about .row .content h3 {
+  font-size: 3rem;
+  color: var(--white);
+}
+
+.about .row .content p {
+  font-size: 1.6rem;
+  color: var(--white);
+  padding: 1rem 0;
+  line-height: 1.8;
+}
+```
+
+</details>
+
+---
