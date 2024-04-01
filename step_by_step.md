@@ -460,3 +460,28 @@ Add the media queries `990px`,`768px`,`450px` to the css file.
 ---
 
 ## Step 3: Build ans style the home section
+
+Create the html for the home section
+
+<details>
+  <summary>Build the home section</summary>
+
+```html
+<!-- HOME SECTION STARTS -->
+
+<section class="home" id="home">
+  <div class="content">
+    <h3>fresh coffee in the mornings</h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+      facilis harum iste libero recusandae quasi dolor saepe magni possimus
+      quibusdam.
+    </p>
+    <a href="#" class="btn">get yours now</a>
+  </div>
+</section>
+
+<!-- HOME SECTION ENDS -->
+```
+
+</details>
