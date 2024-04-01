@@ -459,4 +459,4 @@ Add the media queries `990px`,`768px`,`450px` to the css file.
 
 ---
 
-## Step 3:
+## Step 3: Build ans style the home section
