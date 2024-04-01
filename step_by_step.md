@@ -97,6 +97,8 @@ Create a new file called `app.js`
 
 ## Step 2: Build and style the Header
 
+Build the header, create the `navbar` `icons`, `search-form`, `cart-items-container`
+
 <details>
   <summary>Start with the header</summary>
 
