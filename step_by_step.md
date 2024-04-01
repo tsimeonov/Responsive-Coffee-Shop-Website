@@ -92,3 +92,7 @@ body {
 ---
 
 Create a new file called `app.js`
+
+---
+
+## Step 2: Build and style the Header
