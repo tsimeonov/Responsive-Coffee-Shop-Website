@@ -525,3 +525,5 @@ Styling the home section
 </details>
 
 ---
+
+## Step 4: Build and style the about section
