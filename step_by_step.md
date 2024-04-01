@@ -527,3 +527,40 @@ Styling the home section
 ---
 
 ## Step 4: Build and style the about section
+
+Build the `about` section of the webpage.
+
+<details>
+  <summary>Build the about structure</summary>
+
+```html
+<!-- ABOUT SECTION STARTS -->
+
+<section class="about" id="about">
+  <h1 class="heading"><span>about</span> us</h1>
+
+  <div class="row">
+    <div class="image">
+      <img src="./images/about-img.png" alt="about us" />
+    </div>
+
+    <div class="content">
+      <h3>what makes our coffee special?</h3>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, itaque.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ipsa
+        molestiae non nesciunt accusantium corrupti!
+      </p>
+      <a href="#" class="btn">learn more</a>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT SECTION ENDS -->
+```
+
+</details>
+
+---
