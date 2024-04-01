@@ -95,7 +95,7 @@ Create a new file called `app.js`
 
 ---
 
-## Step 2: Build and style the Header
+## Step 2: Build, style and add functionality to the Header
 
 Build the header, create the `navbar` `icons`, `search-form`, `cart-items-container`
 
@@ -458,3 +458,5 @@ Add the media queries `990px`,`768px`,`450px` to the css file.
 </details>
 
 ---
+
+## Step 3:
