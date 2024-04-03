@@ -895,3 +895,74 @@ Style the `product` section
 </details>
 
 ## Step 7: Build and style the review section
+
+<details>
+  <summary>Build the Review section</summary>
+
+```html
+<!-- REVIEW SECTION STARTS -->
+
+<section class="review" id="review">
+  <h1 class="heading">customer's <span>review</span></h1>
+
+  <div class="box-container">
+    <div class="box">
+      <img src="./images/quote-img.png" alt="qoute image" />
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti sit
+        temporibus laudantium atque maxime repudiandae beatae porro doloremque
+        quas nemo.
+      </p>
+      <img src="./images/pic-1.png" class="user" alt="picture 1" />
+      <h3>John Doe</h3>
+      <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star-half-alt"></i>
+      </div>
+    </div>
+
+    <div class="box">
+      <img src="./images/quote-img.png" alt="qoute image" />
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti sit
+        temporibus laudantium atque maxime repudiandae beatae porro doloremque
+        quas nemo.
+      </p>
+      <img src="./images/pic-2.png" class="user" alt="picture 2" />
+      <h3>John Doe</h3>
+      <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star-half-alt"></i>
+      </div>
+    </div>
+
+    <div class="box">
+      <img src="./images/quote-img.png" alt="qoute image" />
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti sit
+        temporibus laudantium atque maxime repudiandae beatae porro doloremque
+        quas nemo.
+      </p>
+      <img src="./images/pic-3.png" class="user" alt="picture 3" />
+      <h3>John Doe</h3>
+      <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star-half-alt"></i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEW SECTION ENDS -->
+```
+
+</details>
