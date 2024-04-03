@@ -896,6 +896,8 @@ Style the `product` section
 
 ## Step 7: Build and style the review section
 
+Build the `review section`
+
 <details>
   <summary>Build the Review section</summary>
 
@@ -963,6 +965,54 @@ Style the `product` section
 </section>
 
 <!-- REVIEW SECTION ENDS -->
+```
+
+</details>
+
+---
+
+Style the `review` section
+
+<details>
+  <summary>Style the review section</summary>
+
+```css
+.review .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap: 1.5rem;
+}
+
+.review .box-container .box {
+  border: var(--border);
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
+.review .box-container .box p {
+  font-size: 1.6rem;
+  line-height: 1.8;
+  color: var(--white);
+  padding: 2rem 0;
+}
+
+.review .box-container .box .user {
+  height: 7rem;
+  width: 7rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.review .box-container .box h3 {
+  padding: 1rem 0;
+  font-size: 2rem;
+  color: var(--white);
+}
+
+.review .box-container .box .stars i {
+  font-size: 1.5rem;
+  color: var(--main-color);
+}
 ```
 
 </details>
