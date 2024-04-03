@@ -736,6 +736,8 @@ Style the `menu` section
 
 ## Step 6: Build and style the product section
 
+Build the `product` section of the webpage
+
 <details>
   <summary>Product section HTML</summary>
 
