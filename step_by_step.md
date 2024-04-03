@@ -821,6 +821,8 @@ Build the `product` section of the webpage
 
 ---
 
+Style the `product` section
+
 <details>
   <summary>Style the product section</summary>
 
