@@ -893,3 +893,5 @@ Style the `product` section
 ```
 
 </details>
+
+## Step 7: Build and style the review section
