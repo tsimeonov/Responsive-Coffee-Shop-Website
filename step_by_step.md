@@ -733,3 +733,5 @@ Style the `menu` section
 ```
 
 </details>
+
+## Step 6: Build and style the product section
