@@ -1259,7 +1259,7 @@ Style the `blogs` section
 
 ## Step 10: Build and style the footer section
 
-Build and style the `footer` section
+Build the `footer` section
 
 <details>
   <summary>Build the footer section</summary>
