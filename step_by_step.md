@@ -896,7 +896,7 @@ Style the `product` section
 
 ## Step 7: Build and style the review section
 
-Build the `review section`
+Build the `review` section
 
 <details>
   <summary>Build the Review section</summary>
