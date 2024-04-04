@@ -1256,3 +1256,5 @@ Style the `blogs` section
 ```
 
 </details>
+
+## Step 10: Build and style the footer section
