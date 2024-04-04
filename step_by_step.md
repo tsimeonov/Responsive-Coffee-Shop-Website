@@ -1125,3 +1125,5 @@ Style the `contact` section
 ```
 
 </details>
+
+## Step 9: Build and style the blogs section
