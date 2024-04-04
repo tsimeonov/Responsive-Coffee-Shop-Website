@@ -1018,3 +1018,50 @@ Style the `review` section
 </details>
 
 ## Step 8: Build ans style the contact section
+
+Build the `contact` section
+
+<details>
+  <summary>Build the contact section</summary>
+
+```html
+<!-- CONTACT SECTION START -->
+
+<section class="contact" id="contact">
+  <h1 class="heading"><span>contact us</span></h1>
+
+  <div class="row">
+    <iframe
+      class="map"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1458817.766724174!2d-110.58845503093976!3d44.4279630098569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5351e55555555555%3A0xaca8f930348fe1bb!2sYellowstone%20National%20Park!5e0!3m2!1sen!2sbe!4v1711885021387!5m2!1sen!2sbe"
+      width="600"
+      height="450"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+    ></iframe>
+
+    <form action="">
+      <h3>get in touch</h3>
+      <div class="inputBox">
+        <span class="fas fa-user"></span>
+        <input type="text" placeholder="name" />
+      </div>
+      <div class="inputBox">
+        <span class="fas fa-envelope"></span>
+        <input type="email" placeholder="email" />
+      </div>
+      <div class="inputBox">
+        <span class="fas fa-phone"></span>
+        <input type="number" placeholder="number" />
+      </div>
+      <input type="submit" class="btn" value="contact now" />
+    </form>
+  </div>
+</section>
+
+<!-- CONTACT SECTION END -->
+```
+
+</details>
