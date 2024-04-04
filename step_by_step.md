@@ -1127,3 +1127,67 @@ Style the `contact` section
 </details>
 
 ## Step 9: Build and style the blogs section
+
+Buid the `blogs` section.
+
+<details>
+  <summary>Build the blogs section</summary>
+
+```html
+<!-- BLOGS SECTION START -->
+
+<section class="blogs" id="blogs">
+  <h1 class="heading">our <span>blogs</span></h1>
+
+  <div class="box-container">
+    <div class="box">
+      <div class="image">
+        <img src="./images/blogs1.jpg" alt="blog image" />
+      </div>
+      <div class="content">
+        <a href="#" class="title">tasty and refreshing coffee</a>
+        <span>by admin / 21st may, 2021</span>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+          distinctio.
+        </p>
+        <a href="#" class="btn">read more</a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="./images/blogs2.jpg" alt="blog image" />
+      </div>
+      <div class="content">
+        <a href="#" class="title">tasty and refreshing coffee</a>
+        <span>by admin / 21st may, 2021</span>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+          distinctio.
+        </p>
+        <a href="#" class="btn">read more</a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="./images/blogs3.jpg" alt="blog image" />
+      </div>
+      <div class="content">
+        <a href="#" class="title">tasty and refreshing coffee</a>
+        <span>by admin / 21st may, 2021</span>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+          distinctio.
+        </p>
+        <a href="#" class="btn">read more</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BLOGS SECTION END -->
+```
+
+</details>
