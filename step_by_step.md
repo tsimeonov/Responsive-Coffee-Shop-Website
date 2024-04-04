@@ -1016,3 +1016,5 @@ Style the `review` section
 ```
 
 </details>
+
+## Step 8: Build ans style the contact section
