@@ -1,6 +1,6 @@
 # Responsive Coffee Shop Website
 
-## Overview
+### Overview
 
 ### The challenge
 
