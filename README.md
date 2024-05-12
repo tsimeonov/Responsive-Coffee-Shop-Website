@@ -12,6 +12,8 @@ Users should be able to:
 
 ### Screenshot
 
+![](./preview.jpg)
+
 ### Live demo
 
 https://tsimeonov.github.io/Responsive-Coffee-Shop-Website/
