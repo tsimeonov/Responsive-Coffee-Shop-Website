@@ -12,7 +12,9 @@ Users should be able to:
 
 ### Screenshot
 
-### Links
+### Live demo
+
+https://tsimeonov.github.io/Responsive-Coffee-Shop-Website/
 
 ### Built with
 
