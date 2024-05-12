@@ -12,7 +12,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./preview.jpg)
+![](./preview.png)
+
 
 ### Live demo
 
